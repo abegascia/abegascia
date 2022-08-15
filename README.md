@@ -1,5 +1,3 @@
-[abegascia/README.md](README.md)
-
 Hi there 👋
 
 I'm a Frontend Developer from Argentina.
